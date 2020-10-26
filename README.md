@@ -1,3 +1,8 @@
+<img src="./img/web.png"><br>
+web github pages https://sosan.github.io/examen_jl_02/<br>
+web netlify pages https://stupefied-rosalind-1d1aaa.netlify.app/<br>
+
+
 # Plantilla FrontEnd
 ##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
 
